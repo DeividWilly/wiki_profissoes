@@ -68,4 +68,9 @@ footer {
 	font-weight: bold;
 	padding: 10px;
 	text-align: center;
-  }
+}
+
+a {
+	text-decoration: underline;
+	color: white;
+}
